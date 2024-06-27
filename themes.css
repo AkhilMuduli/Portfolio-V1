@@ -1,0 +1,101 @@
+body[theme="green"] .section {
+  background-color: #0407;
+  color: #fff;
+}
+body[theme="green"] span {
+  color: #ffffff;
+}
+body[theme="green"] nav a {
+  color: #000;
+}
+body[theme="green"] .left_nav h4 {
+  color: #000;
+}
+
+body[theme="green"] .top_main p {
+  color: #1a1a1a;
+}
+body[theme="green"] .row h2 {
+  color: #1a1a1a;
+}
+body[theme="green"] .donut-chart::after {
+  background-color: #88a888;
+}
+body[theme="green"] .donut-chart {
+  background-color: #0407;
+  color: #000;
+}
+body[theme="green"] .progress-fill {
+  background: linear-gradient(90deg, var(--color) var(--progress), #7c977c 0);
+}
+body[theme="green"] .progress-item {
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.288);
+}
+
+body[theme="black"] .section {
+  background-color: #040718;
+  color: #e0dfdf;
+}
+body[theme="black"] a {
+  color: #e0dfdf;
+}
+body[theme="black"] nav .centre_nav h4:nth-child(1) {
+  border-bottom: 1px solid #ffffffa8;
+}
+
+body[theme="black"] .top_main p {
+  color: #e0dfdf;
+}
+
+body[theme="black"] .cv .flex .details .row:nth-of-type(2n + 1) {
+  background-color: #111425;
+}
+body[theme="black"] .cv p {
+  color: #c9c9c9;
+}
+body[theme="black"] .cv h1 {
+  color: #e0dfdf;
+}
+body[theme="black"] .donut-chart::after {
+  background-color: #040718;
+}
+body[theme="black"] .progress-fill {
+  background: linear-gradient(90deg, var(--color) var(--progress), #040718ab 0);
+}
+body[theme="black"] .progress-item {
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.288);
+}
+
+body[theme="black"] .progress-label {
+  color: #000;
+}
+body[theme="black"] header {
+  background-color: #040718ab;
+}
+body[theme="black"] .category-btn.active {
+  background-color: #441897;
+  color: #fff;
+  border-color: #441897;
+}
+body[theme="black"] .project-card {
+  background-color: #3c2980;
+}
+
+body[theme="white"] .section {
+  background-color: #e9ecefb2;
+  color: #000;
+}
+body[theme="white"] .mobile {
+  background-color: #e9ecefb2;
+  color: #000;
+}
+
+body[theme="white"] .category-btn.active {
+  background-color: #441897;
+  color: #fff;
+  border-color: #441897;
+}
+
+body[theme="white"] a {
+  color: #000000;
+}
